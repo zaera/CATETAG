@@ -1,0 +1,54 @@
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\bin\Debug\Digital Stopwatch.exe
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\bin\Debug\Digital Stopwatch.pdb
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\bin\Debug\Digital Stopwatch.xml
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Form1.resources
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Resources.resources
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\obj\Debug\Digital Stopwatch.vbproj.GenerateResource.Cache
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\obj\Debug\Digital Stopwatch.exe
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\obj\Debug\Digital Stopwatch.xml
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\Digital Stopwatch\obj\Debug\Digital Stopwatch.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\obj\Debug\Digital Stopwatch.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\obj\Debug\Digital Stopwatch.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\obj\Debug\Digital Stopwatch.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\bin\Debug\Digital Stopwatch.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\bin\Debug\Digital Stopwatch.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\bin\Debug\Digital Stopwatch.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Form1.resources
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Resources.resources
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Stopwatch\Digital Stopwatch\obj\Debug\Digital Stopwatch.vbproj.GenerateResource.Cache
+C:\Users\jokenvillanueva\Desktop\Digital Stopwatch\Digital Stopwatch\obj\Debug\Digital Stopwatch.exe
+C:\Users\jokenvillanueva\Desktop\Digital Stopwatch\Digital Stopwatch\obj\Debug\Digital Stopwatch.xml
+C:\Users\jokenvillanueva\Desktop\Digital Stopwatch\Digital Stopwatch\obj\Debug\Digital Stopwatch.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\bin\Debug\Digital Stopwatch.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\bin\Debug\Digital Stopwatch.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\bin\Debug\Digital Stopwatch.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Form1.resources
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Resources.resources
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.vbproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.xml
+C:\Users\Alex\Downloads\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.pdb
+C:\Users\Alex\Downloads\Digital Split timer\Digital Stopwatch\bin\Debug\Digital Stopwatch.exe
+C:\Users\Alex\Downloads\Digital Split timer\Digital Stopwatch\bin\Debug\Digital Stopwatch.pdb
+C:\Users\Alex\Downloads\Digital Split timer\Digital Stopwatch\bin\Debug\Digital Stopwatch.xml
+C:\Users\Alex\Downloads\Digital Split timer\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Form1.resources
+C:\Users\Alex\Downloads\Digital Split timer\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Resources.resources
+C:\Users\Alex\Downloads\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.vbproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.exe
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.exe
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.xml
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\obj\Debug\Digital Stopwatch.pdb
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\bin\Debug\Digital Stopwatch.exe
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\bin\Debug\Digital Stopwatch.pdb
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\bin\Debug\Digital Stopwatch.xml
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Form1.resources
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\obj\Debug\Digital_Stopwatch.Resources.resources
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\Digital Split timer\Digital Stopwatch\obj\Debug\GenerateResource.read.52.tlog

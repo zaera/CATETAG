@@ -1,0 +1,50 @@
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\bin\Debug\CateTag.exe.config
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\bin\Debug\CateTag.exe
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\bin\Debug\CateTag.pdb
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\SimpleSerial.competition.resources
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\SimpleSerial.menu.resources
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\CateTag.Properties.Resources.resources
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\CateTag.exe
+D:\Documents and Settings\zaera\Рабочий стол\SimpleSerial\obj\Debug\CateTag.pdb
+C:\Users\Alex\Documents\SimpleSerial\bin\Debug\CateTag.exe.config
+C:\Users\Alex\Documents\SimpleSerial\obj\Debug\CateTag.exe
+C:\Users\Alex\Documents\SimpleSerial\obj\Debug\CateTag.pdb
+C:\Users\Alex\Documents\SimpleSerial\obj\Debug\CateTag.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\SimpleSerial\obj\Debug\SimpleSerial.competition.resources
+C:\Users\Alex\Documents\SimpleSerial\obj\Debug\SimpleSerial.menu.resources
+C:\Users\Alex\Documents\SimpleSerial\obj\Debug\CateTag.Properties.Resources.resources
+C:\Users\Alex\Documents\SimpleSerial\obj\Debug\CateTag.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\SimpleSerial\bin\Debug\CateTag.exe
+C:\Users\Alex\Documents\SimpleSerial\bin\Debug\CateTag.pdb
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\bin\Debug\CateTag.exe.config
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\CateTag.exe
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\CateTag.pdb
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\bin\Debug\CateTag.exe
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\bin\Debug\CateTag.pdb
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\bin\Debug\DataGridViewAutoFilter.dll
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\SimpleSerial.competition.resources
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\SimpleSerial.menu.resources
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\CateTag.Properties.Resources.resources
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\Копия (3) SimpleSerial\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\bin\Debug\CateTag.exe.config
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\CateTag.exe
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\CateTag.pdb
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\SimpleSerial.menu.resources
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\CateTag.Properties.Resources.resources
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\obj\Debug\SimpleSerial.compet.resources
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\bin\Debug\CateTag.exe
+D:\Documents and Settings\zaera\Рабочий стол\PC\work\bin\Debug\CateTag.pdb
